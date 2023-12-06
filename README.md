@@ -12,6 +12,7 @@ pins whenever more then one at a time was used.
 
 Very first things on the to-do List:
 -tidy up the code
--change some delays to mills code
+-power saveing
+-change some delays to mills code so that the main loop keeps running
 -making BT connection stable / reconnecting and secure
 -..
