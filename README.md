@@ -6,6 +6,10 @@ Also thinkable for arm prothesis with glooves or support from an manufacturer.
 
 3D Files for printing the casees, a detailed plan how to build all the hardware is also comming soon.
 
+And a little hint for free: dont use cheap hardware. i got a lot of problems with the signals on
+cheap ESP32, i had wrong signals on all
+pins whenever more then one at a time was used.
+
 Very first things on the to-do List:
 -tidy up the code
 -change some delays to mills code
